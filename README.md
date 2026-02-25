@@ -1,4 +1,4 @@
-# Demo Agent
+# Stupid Baboon Harness: Amp Edition
 
 A minimal CLI code-editing agent built in Go, inspired by the Amp note on building an agent.
 
